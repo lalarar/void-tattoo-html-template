@@ -671,7 +671,7 @@ img{
 
 .header-wrap .header-logo img {
   width: 188px;
-  height: 90px;
+  height: auto;
   margin: 0;
 }
 
@@ -867,7 +867,7 @@ img{
 
   .header-wrap .header-logo img {
     width: 145px;
-    height: 69px;
+    height: auto;
   }
 
   .header-wrap .header-nav-wrap {
